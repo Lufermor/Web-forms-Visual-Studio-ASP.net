@@ -1,0 +1,1003 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Facturas>
+    <Factura>
+        <nFactura>202201</nFactura>
+        <nombreMiEmpresa>Puzzles</nombreMiEmpresa>
+        <fechaFactura>04/03/2020</fechaFactura>
+        <CIFCliente>12033724D</CIFCliente>
+        <nombreCliente>Vanesa Fortunata Marín Leal</nombreCliente>
+        <FechaCobro>04/13/2020</FechaCobro>
+        <EstadoFactura>Pendiente</EstadoFactura>
+        <TelefonoCliente>610349867</TelefonoCliente>
+        <addressCliente>Rúa Alexia, 256, 6º B</addressCliente>
+        <CPCliente>59572</CPCliente>
+        <PaisCliente>Bélgica</PaisCliente>
+        <CiudadCliente>Bruselas</CiudadCliente>
+        <correoCliente>VanesealBé@gmail.com</correoCliente>
+        <Producto>Software</Producto>
+        <ImporteBruto>1373</ImporteBruto>
+        <ImporteIVA>288.33</ImporteIVA>
+        <Total>1661.33</Total>
+        <Moneda>EUR</Moneda>
+    </Factura>
+    <Factura>
+        <nFactura>202202</nFactura>
+        <nombreMiEmpresa>Puzzles</nombreMiEmpresa>
+        <fechaFactura>07/15/2011</fechaFactura>
+        <CIFCliente>59810466R</CIFCliente>
+        <nombreCliente>Rocío Olivares Figueras</nombreCliente>
+        <FechaCobro>07/20/2011</FechaCobro>
+        <EstadoFactura>Pendiente</EstadoFactura>
+        <TelefonoCliente>626266576</TelefonoCliente>
+        <addressCliente>Travesía Cardona, 76, 8º</addressCliente>
+        <CPCliente>59296</CPCliente>
+        <PaisCliente>Portugal</PaisCliente>
+        <CiudadCliente>Lisboa</CiudadCliente>
+        <correoCliente>RocíorasPo@gmail.com</correoCliente>
+        <Producto>Hardware</Producto>
+        <ImporteBruto>3955</ImporteBruto>
+        <ImporteIVA>830.55</ImporteIVA>
+        <Total>4785.55</Total>
+        <Moneda>USD</Moneda>
+    </Factura>
+    <Factura>
+        <nFactura>202203</nFactura>
+        <nombreMiEmpresa>Puzzles</nombreMiEmpresa>
+        <fechaFactura>07/18/2009</fechaFactura>
+        <CIFCliente>89916261S</CIFCliente>
+        <nombreCliente>Elías Rivero Cazorla</nombreCliente>
+        <FechaCobro>07/30/2009</FechaCobro>
+        <EstadoFactura>Pagado</EstadoFactura>
+        <TelefonoCliente>673704547</TelefonoCliente>
+        <addressCliente>Travesía Rayan, 4, 82º 9º</addressCliente>
+        <CPCliente>29866</CPCliente>
+        <PaisCliente>Liechtenstein</PaisCliente>
+        <CiudadCliente>Vaduz</CiudadCliente>
+        <correoCliente>ElíasrlaLi@gmail.com</correoCliente>
+        <Producto>Servicio al cliente</Producto>
+        <ImporteBruto>3310</ImporteBruto>
+        <ImporteIVA>695.1</ImporteIVA>
+        <Total>4005.1</Total>
+        <Moneda>GBP</Moneda>
+    </Factura>
+    <Factura>
+        <nFactura>202204</nFactura>
+        <nombreMiEmpresa>Puzzles</nombreMiEmpresa>
+        <fechaFactura>10/14/2016</fechaFactura>
+        <CIFCliente>95434945X</CIFCliente>
+        <nombreCliente>Sol Mayoral-Alvarez</nombreCliente>
+        <FechaCobro>10/26/2016</FechaCobro>
+        <EstadoFactura>Atrasado</EstadoFactura>
+        <TelefonoCliente>605946098</TelefonoCliente>
+        <addressCliente>Plaza Sara, 278, 0º B</addressCliente>
+        <CPCliente>84497</CPCliente>
+        <PaisCliente>Kazajistán</PaisCliente>
+        <CiudadCliente>Nursultán</CiudadCliente>
+        <correoCliente>Sol MrezKa@gmail.com</correoCliente>
+        <Producto>Software</Producto>
+        <ImporteBruto>3487</ImporteBruto>
+        <ImporteIVA>732.27</ImporteIVA>
+        <Total>4219.27</Total>
+        <Moneda>JPY</Moneda>
+    </Factura>
+    <Factura>
+        <nFactura>202205</nFactura>
+        <nombreMiEmpresa>Puzzles</nombreMiEmpresa>
+        <fechaFactura>06/21/2012</fechaFactura>
+        <CIFCliente>70298423G</CIFCliente>
+        <nombreCliente>Diego Rufino Llano Bautista</nombreCliente>
+        <FechaCobro>07/05/2012</FechaCobro>
+        <EstadoFactura>Pendiente</EstadoFactura>
+        <TelefonoCliente>641897312</TelefonoCliente>
+        <addressCliente>Praza Anna, 3, 79º D</addressCliente>
+        <CPCliente>35808</CPCliente>
+        <PaisCliente>Azerbaiyán</PaisCliente>
+        <CiudadCliente>Bakú</CiudadCliente>
+        <correoCliente>DiegostaAz@gmail.com</correoCliente>
+        <Producto>Hardware</Producto>
+        <ImporteBruto>4973</ImporteBruto>
+        <ImporteIVA>1044.33</ImporteIVA>
+        <Total>6017.33</Total>
+        <Moneda>AUD</Moneda>
+    </Factura>
+    <Factura>
+        <nFactura>202206</nFactura>
+        <nombreMiEmpresa>Puzzles</nombreMiEmpresa>
+        <fechaFactura>09/17/2003</fechaFactura>
+        <CIFCliente>34095724H</CIFCliente>
+        <nombreCliente>Raúl Llano</nombreCliente>
+        <FechaCobro>09/25/2003</FechaCobro>
+        <EstadoFactura>Atrasado</EstadoFactura>
+        <TelefonoCliente>663191903</TelefonoCliente>
+        <addressCliente>Ronda Candela, 121, 8º C</addressCliente>
+        <CPCliente>57232</CPCliente>
+        <PaisCliente>Chipre</PaisCliente>
+        <CiudadCliente>Nicosia</CiudadCliente>
+        <correoCliente>Raúl anoCh@gmail.com</correoCliente>
+        <Producto>Servicio al cliente</Producto>
+        <ImporteBruto>4765</ImporteBruto>
+        <ImporteIVA>1000.65</ImporteIVA>
+        <Total>5765.65</Total>
+        <Moneda>CAD</Moneda>
+    </Factura>
+    <Factura>
+        <nFactura>202207</nFactura>
+        <nombreMiEmpresa>Puzzles</nombreMiEmpresa>
+        <fechaFactura>06/16/2021</fechaFactura>
+        <CIFCliente>69606525S</CIFCliente>
+        <nombreCliente>Pacífica Pozuelo-Iborra</nombreCliente>
+        <FechaCobro>06/23/2021</FechaCobro>
+        <EstadoFactura>Pendiente</EstadoFactura>
+        <TelefonoCliente>613126364</TelefonoCliente>
+        <addressCliente>Guadalajara</addressCliente>
+        <CPCliente>41253</CPCliente>
+        <PaisCliente>Países Bajos</PaisCliente>
+        <CiudadCliente>Ámsterdam</CiudadCliente>
+        <correoCliente>PacífrraPa@gmail.com</correoCliente>
+        <Producto>Software</Producto>
+        <ImporteBruto>1251</ImporteBruto>
+        <ImporteIVA>262.71</ImporteIVA>
+        <Total>1513.71</Total>
+        <Moneda>CHF</Moneda>
+    </Factura>
+    <Factura>
+        <nFactura>202208</nFactura>
+        <nombreMiEmpresa>Puzzles</nombreMiEmpresa>
+        <fechaFactura>10/10/2001</fechaFactura>
+        <CIFCliente>42642023T</CIFCliente>
+        <nombreCliente>Reinaldo Severino Saez Casares</nombreCliente>
+        <FechaCobro>10/15/2001</FechaCobro>
+        <EstadoFactura>Pagado</EstadoFactura>
+        <TelefonoCliente>652890759</TelefonoCliente>
+        <addressCliente>Praza Jan, 613, 6º D</addressCliente>
+        <CPCliente>57718</CPCliente>
+        <PaisCliente>Lituania</PaisCliente>
+        <CiudadCliente>Vilna</CiudadCliente>
+        <correoCliente>ReinaresLi@gmail.com</correoCliente>
+        <Producto>Hardware</Producto>
+        <ImporteBruto>3629</ImporteBruto>
+        <ImporteIVA>762.09</ImporteIVA>
+        <Total>4391.09</Total>
+        <Moneda>CNH</Moneda>
+    </Factura>
+    <Factura>
+        <nFactura>202209</nFactura>
+        <nombreMiEmpresa>Puzzles</nombreMiEmpresa>
+        <fechaFactura>03/09/2006</fechaFactura>
+        <CIFCliente>11545160B</CIFCliente>
+        <nombreCliente>Manuel Lastra Ayala</nombreCliente>
+        <FechaCobro>03/13/2006</FechaCobro>
+        <EstadoFactura>Pendiente</EstadoFactura>
+        <TelefonoCliente>656454421</TelefonoCliente>
+        <addressCliente>Paseo Orellana, 85, Entre suelo 3º</addressCliente>
+        <CPCliente>24784</CPCliente>
+        <PaisCliente>Andorra</PaisCliente>
+        <CiudadCliente>Andorra La Vieja</CiudadCliente>
+        <correoCliente>ManuealaAn@gmail.com</correoCliente>
+        <Producto>Servicio al cliente</Producto>
+        <ImporteBruto>4033</ImporteBruto>
+        <ImporteIVA>846.93</ImporteIVA>
+        <Total>4879.93</Total>
+        <Moneda>BTC</Moneda>
+    </Factura>
+    <Factura>
+        <nFactura>202210</nFactura>
+        <nombreMiEmpresa>Puzzles</nombreMiEmpresa>
+        <fechaFactura>11/18/2008</fechaFactura>
+        <CIFCliente>79901652C</CIFCliente>
+        <nombreCliente>Jose Angel Bravo</nombreCliente>
+        <FechaCobro>12/01/2008</FechaCobro>
+        <EstadoFactura>Pendiente</EstadoFactura>
+        <TelefonoCliente>658190782</TelefonoCliente>
+        <addressCliente>Plaça Villa, 967, Ático 6º</addressCliente>
+        <CPCliente>71498</CPCliente>
+        <PaisCliente>Finlandia</PaisCliente>
+        <CiudadCliente>Helsinki</CiudadCliente>
+        <correoCliente>Jose avoFi@gmail.com</correoCliente>
+        <Producto>Software</Producto>
+        <ImporteBruto>575</ImporteBruto>
+        <ImporteIVA>120.75</ImporteIVA>
+        <Total>695.75</Total>
+        <Moneda>EUR</Moneda>
+    </Factura>
+    <Factura>
+        <nFactura>202211</nFactura>
+        <nombreMiEmpresa>Puzzles</nombreMiEmpresa>
+        <fechaFactura>05/14/2012</fechaFactura>
+        <CIFCliente>04055893G</CIFCliente>
+        <nombreCliente>Ambrosio Jaén Torrent</nombreCliente>
+        <FechaCobro>05/28/2012</FechaCobro>
+        <EstadoFactura>Atrasado</EstadoFactura>
+        <TelefonoCliente>667892655</TelefonoCliente>
+        <addressCliente>Passeig Aitana, 3, Bajos</addressCliente>
+        <CPCliente>35561</CPCliente>
+        <PaisCliente>Suiza</PaisCliente>
+        <CiudadCliente>Berna</CiudadCliente>
+        <correoCliente>AmbroentSu@gmail.com</correoCliente>
+        <Producto>Hardware</Producto>
+        <ImporteBruto>582</ImporteBruto>
+        <ImporteIVA>122.22</ImporteIVA>
+        <Total>704.22</Total>
+        <Moneda>USD</Moneda>
+    </Factura>
+    <Factura>
+        <nFactura>202212</nFactura>
+        <nombreMiEmpresa>Puzzles</nombreMiEmpresa>
+        <fechaFactura>12/26/2015</fechaFactura>
+        <CIFCliente>33156115M</CIFCliente>
+        <nombreCliente>Luis Tormo Laguna</nombreCliente>
+        <FechaCobro>01/09/2016</FechaCobro>
+        <EstadoFactura>Pagado</EstadoFactura>
+        <TelefonoCliente>652442096</TelefonoCliente>
+        <addressCliente>Passeig Álvarez, 6, 93º E</addressCliente>
+        <CPCliente>87066</CPCliente>
+        <PaisCliente>Moldavia</PaisCliente>
+        <CiudadCliente>Chisinau</CiudadCliente>
+        <correoCliente>Luis unaMo@gmail.com</correoCliente>
+        <Producto>Servicio al cliente</Producto>
+        <ImporteBruto>3404</ImporteBruto>
+        <ImporteIVA>714.84</ImporteIVA>
+        <Total>4118.84</Total>
+        <Moneda>GBP</Moneda>
+    </Factura>
+    <Factura>
+        <nFactura>202213</nFactura>
+        <nombreMiEmpresa>Puzzles</nombreMiEmpresa>
+        <fechaFactura>09/19/2021</fechaFactura>
+        <CIFCliente>90888736G</CIFCliente>
+        <nombreCliente>Mayte Múñiz Palomo</nombreCliente>
+        <FechaCobro>09/28/2021</FechaCobro>
+        <EstadoFactura>Pagado</EstadoFactura>
+        <TelefonoCliente>614737984</TelefonoCliente>
+        <addressCliente>Ruela Francisco Javier, 543, 2º B</addressCliente>
+        <CPCliente>33958</CPCliente>
+        <PaisCliente>Francia</PaisCliente>
+        <CiudadCliente>París</CiudadCliente>
+        <correoCliente>MayteomoFr@gmail.com</correoCliente>
+        <Producto>Software</Producto>
+        <ImporteBruto>1367</ImporteBruto>
+        <ImporteIVA>287.07</ImporteIVA>
+        <Total>1654.07</Total>
+        <Moneda>JPY</Moneda>
+    </Factura>
+    <Factura>
+        <nFactura>202214</nFactura>
+        <nombreMiEmpresa>Puzzles</nombreMiEmpresa>
+        <fechaFactura>02/05/2009</fechaFactura>
+        <CIFCliente>26026747Q</CIFCliente>
+        <nombreCliente>Marisol Ágata Mir Cózar</nombreCliente>
+        <FechaCobro>02/12/2009</FechaCobro>
+        <EstadoFactura>Sobrepagado</EstadoFactura>
+        <TelefonoCliente>621364628</TelefonoCliente>
+        <addressCliente>Carrer Cabrera, 5, 5º F</addressCliente>
+        <CPCliente>12085</CPCliente>
+        <PaisCliente>Serbia</PaisCliente>
+        <CiudadCliente>Belgrado</CiudadCliente>
+        <correoCliente>MariszarSe@gmail.com</correoCliente>
+        <Producto>Hardware</Producto>
+        <ImporteBruto>4656</ImporteBruto>
+        <ImporteIVA>977.76</ImporteIVA>
+        <Total>5633.76</Total>
+        <Moneda>AUD</Moneda>
+    </Factura>
+    <Factura>
+        <nFactura>202215</nFactura>
+        <nombreMiEmpresa>Puzzles</nombreMiEmpresa>
+        <fechaFactura>04/11/2012</fechaFactura>
+        <CIFCliente>93037112L</CIFCliente>
+        <nombreCliente>Jose Manuel Bauzà Andrés</nombreCliente>
+        <FechaCobro>04/15/2012</FechaCobro>
+        <EstadoFactura>Pendiente</EstadoFactura>
+        <TelefonoCliente>690670484</TelefonoCliente>
+        <addressCliente>Calle Ocho de Marzo 20</addressCliente>
+        <CPCliente>69534</CPCliente>
+        <PaisCliente>Suecia</PaisCliente>
+        <CiudadCliente>Estocolmo</CiudadCliente>
+        <correoCliente>Jose résSu@gmail.com</correoCliente>
+        <Producto>Servicio al cliente</Producto>
+        <ImporteBruto>568</ImporteBruto>
+        <ImporteIVA>119.28</ImporteIVA>
+        <Total>687.28</Total>
+        <Moneda>CAD</Moneda>
+    </Factura>
+    <Factura>
+        <nFactura>202216</nFactura>
+        <nombreMiEmpresa>Puzzles</nombreMiEmpresa>
+        <fechaFactura>07/24/2008</fechaFactura>
+        <CIFCliente>33106720Z</CIFCliente>
+        <nombreCliente>Julio César Guerrero Pedro</nombreCliente>
+        <FechaCobro>07/26/2008</FechaCobro>
+        <EstadoFactura>Pendiente</EstadoFactura>
+        <TelefonoCliente>623160124</TelefonoCliente>
+        <addressCliente>Calle País Vasco 22</addressCliente>
+        <CPCliente>80313</CPCliente>
+        <PaisCliente>Moldavia</PaisCliente>
+        <CiudadCliente>Chisinau</CiudadCliente>
+        <correoCliente>JuliodroMo@gmail.com</correoCliente>
+        <Producto>Software</Producto>
+        <ImporteBruto>4441</ImporteBruto>
+        <ImporteIVA>932.61</ImporteIVA>
+        <Total>5373.61</Total>
+        <Moneda>CHF</Moneda>
+    </Factura>
+    <Factura>
+        <nFactura>202217</nFactura>
+        <nombreMiEmpresa>Puzzles</nombreMiEmpresa>
+        <fechaFactura>10/16/2017</fechaFactura>
+        <CIFCliente>79925743F</CIFCliente>
+        <nombreCliente>Fabiola Mariana Saura Abril</nombreCliente>
+        <FechaCobro>10/25/2017</FechaCobro>
+        <EstadoFactura>Pendiente</EstadoFactura>
+        <TelefonoCliente>684970703</TelefonoCliente>
+        <addressCliente>Calle de la Estación 42</addressCliente>
+        <CPCliente>13831</CPCliente>
+        <PaisCliente>Bosnia y Herzegovina</PaisCliente>
+        <CiudadCliente>Sarajevo</CiudadCliente>
+        <correoCliente>FabiorilBo@gmail.com</correoCliente>
+        <Producto>Hardware</Producto>
+        <ImporteBruto>2021</ImporteBruto>
+        <ImporteIVA>424.41</ImporteIVA>
+        <Total>2445.41</Total>
+        <Moneda>CNH</Moneda>
+    </Factura>
+    <Factura>
+        <nFactura>202218</nFactura>
+        <nombreMiEmpresa>Puzzles</nombreMiEmpresa>
+        <fechaFactura>01/13/2012</fechaFactura>
+        <CIFCliente>53324009G</CIFCliente>
+        <nombreCliente>Santiago Herrero Sans</nombreCliente>
+        <FechaCobro>01/25/2012</FechaCobro>
+        <EstadoFactura>Atrasado</EstadoFactura>
+        <TelefonoCliente>653552779</TelefonoCliente>
+        <addressCliente>Calle Islas Medas 40</addressCliente>
+        <CPCliente>27293</CPCliente>
+        <PaisCliente>Irlanda</PaisCliente>
+        <CiudadCliente>Dublín</CiudadCliente>
+        <correoCliente>SantiansIr@gmail.com</correoCliente>
+        <Producto>Servicio al cliente</Producto>
+        <ImporteBruto>4320</ImporteBruto>
+        <ImporteIVA>907.2</ImporteIVA>
+        <Total>5227.2</Total>
+        <Moneda>BTC</Moneda>
+    </Factura>
+    <Factura>
+        <nFactura>202219</nFactura>
+        <nombreMiEmpresa>Puzzles</nombreMiEmpresa>
+        <fechaFactura>03/03/2021</fechaFactura>
+        <CIFCliente>20219968R</CIFCliente>
+        <nombreCliente>Obdulia Riba Rey</nombreCliente>
+        <FechaCobro>03/16/2021</FechaCobro>
+        <EstadoFactura>Pagado</EstadoFactura>
+        <TelefonoCliente>652375460</TelefonoCliente>
+        <addressCliente>Calle Cobre 9</addressCliente>
+        <CPCliente>19989</CPCliente>
+        <PaisCliente>Bélgica</PaisCliente>
+        <CiudadCliente>Bruselas</CiudadCliente>
+        <correoCliente>ObdulReyBé@gmail.com</correoCliente>
+        <Producto>Software</Producto>
+        <ImporteBruto>4545</ImporteBruto>
+        <ImporteIVA>954.45</ImporteIVA>
+        <Total>5499.45</Total>
+        <Moneda>EUR</Moneda>
+    </Factura>
+    <Factura>
+        <nFactura>202220</nFactura>
+        <nombreMiEmpresa>Puzzles</nombreMiEmpresa>
+        <fechaFactura>03/01/2022</fechaFactura>
+        <CIFCliente>64034119A</CIFCliente>
+        <nombreCliente>Ibán de Rico</nombreCliente>
+        <FechaCobro>03/05/2022</FechaCobro>
+        <EstadoFactura>Pendiente</EstadoFactura>
+        <TelefonoCliente>675813621</TelefonoCliente>
+        <addressCliente>Calle Manacor 19</addressCliente>
+        <CPCliente>77518</CPCliente>
+        <PaisCliente>Andorra</PaisCliente>
+        <CiudadCliente>Andorra La Vieja</CiudadCliente>
+        <correoCliente>Ibán icoAn@gmail.com</correoCliente>
+        <Producto>Hardware</Producto>
+        <ImporteBruto>4198</ImporteBruto>
+        <ImporteIVA>881.58</ImporteIVA>
+        <Total>5079.58</Total>
+        <Moneda>USD</Moneda>
+    </Factura>
+    <Factura>
+        <nFactura>202221</nFactura>
+        <nombreMiEmpresa>Puzzles</nombreMiEmpresa>
+        <fechaFactura>01/19/2020</fechaFactura>
+        <CIFCliente>25354458V</CIFCliente>
+        <nombreCliente>Lucas Loreto Busquets Torralba</nombreCliente>
+        <FechaCobro>01/24/2020</FechaCobro>
+        <EstadoFactura>Pendiente</EstadoFactura>
+        <TelefonoCliente>630090961</TelefonoCliente>
+        <addressCliente>Calle del Gladiolo 36</addressCliente>
+        <CPCliente>31166</CPCliente>
+        <PaisCliente>Dinamarca</PaisCliente>
+        <CiudadCliente>Copenhague</CiudadCliente>
+        <correoCliente>LucaslbaDi@gmail.com</correoCliente>
+        <Producto>Servicio al cliente</Producto>
+        <ImporteBruto>2318</ImporteBruto>
+        <ImporteIVA>486.78</ImporteIVA>
+        <Total>2804.78</Total>
+        <Moneda>GBP</Moneda>
+    </Factura>
+    <Factura>
+        <nFactura>202222</nFactura>
+        <nombreMiEmpresa>Puzzles</nombreMiEmpresa>
+        <fechaFactura>02/06/2015</fechaFactura>
+        <CIFCliente>52304442G</CIFCliente>
+        <nombreCliente>Soledad Inés Donoso Peral</nombreCliente>
+        <FechaCobro>02/13/2015</FechaCobro>
+        <EstadoFactura>Atrasado</EstadoFactura>
+        <TelefonoCliente>657075277</TelefonoCliente>
+        <addressCliente>Calle del Pinar 37</addressCliente>
+        <CPCliente>26924</CPCliente>
+        <PaisCliente>Francia</PaisCliente>
+        <CiudadCliente>París</CiudadCliente>
+        <correoCliente>SoledralFr@gmail.com</correoCliente>
+        <Producto>Software</Producto>
+        <ImporteBruto>4801</ImporteBruto>
+        <ImporteIVA>1008.21</ImporteIVA>
+        <Total>5809.21</Total>
+        <Moneda>JPY</Moneda>
+    </Factura>
+    <Factura>
+        <nFactura>202223</nFactura>
+        <nombreMiEmpresa>Puzzles</nombreMiEmpresa>
+        <fechaFactura>10/15/2022</fechaFactura>
+        <CIFCliente>90781726J</CIFCliente>
+        <nombreCliente>Gabino Company Briones</nombreCliente>
+        <FechaCobro>10/27/2022</FechaCobro>
+        <EstadoFactura>Atrasado</EstadoFactura>
+        <TelefonoCliente>664050019</TelefonoCliente>
+        <addressCliente>Calle Navalcarnero 27</addressCliente>
+        <CPCliente>66529</CPCliente>
+        <PaisCliente>Bulgaria</PaisCliente>
+        <CiudadCliente>Sofía</CiudadCliente>
+        <correoCliente>GabinnesBu@gmail.com</correoCliente>
+        <Producto>Hardware</Producto>
+        <ImporteBruto>3572</ImporteBruto>
+        <ImporteIVA>750.12</ImporteIVA>
+        <Total>4322.12</Total>
+        <Moneda>AUD</Moneda>
+    </Factura>
+    <Factura>
+        <nFactura>202224</nFactura>
+        <nombreMiEmpresa>Puzzles</nombreMiEmpresa>
+        <fechaFactura>11/08/2011</fechaFactura>
+        <CIFCliente>16990884W</CIFCliente>
+        <nombreCliente>Sergio Puerta Escamilla</nombreCliente>
+        <FechaCobro>11/10/2011</FechaCobro>
+        <EstadoFactura>Atrasado</EstadoFactura>
+        <TelefonoCliente>629191635</TelefonoCliente>
+        <addressCliente>Carretera M-410 17</addressCliente>
+        <CPCliente>28319</CPCliente>
+        <PaisCliente>Ucrania</PaisCliente>
+        <CiudadCliente>Kiev</CiudadCliente>
+        <correoCliente>SergillaUc@gmail.com</correoCliente>
+        <Producto>Servicio al cliente</Producto>
+        <ImporteBruto>2104</ImporteBruto>
+        <ImporteIVA>441.84</ImporteIVA>
+        <Total>2545.84</Total>
+        <Moneda>CAD</Moneda>
+    </Factura>
+    <Factura>
+        <nFactura>202225</nFactura>
+        <nombreMiEmpresa>Puzzles</nombreMiEmpresa>
+        <fechaFactura>06/19/2015</fechaFactura>
+        <CIFCliente>21120310P</CIFCliente>
+        <nombreCliente>Magdalena Cordero Benitez</nombreCliente>
+        <FechaCobro>06/22/2015</FechaCobro>
+        <EstadoFactura>Pagado</EstadoFactura>
+        <TelefonoCliente>631207941</TelefonoCliente>
+        <addressCliente>Avenida del Campo Hermoso 48</addressCliente>
+        <CPCliente>68690</CPCliente>
+        <PaisCliente>San Marino</PaisCliente>
+        <CiudadCliente>San Marino</CiudadCliente>
+        <correoCliente>MagdatezSa@gmail.com</correoCliente>
+        <Producto>Software</Producto>
+        <ImporteBruto>4212</ImporteBruto>
+        <ImporteIVA>884.52</ImporteIVA>
+        <Total>5096.52</Total>
+        <Moneda>CHF</Moneda>
+    </Factura>
+    <Factura>
+        <nFactura>202226</nFactura>
+        <nombreMiEmpresa>Puzzles</nombreMiEmpresa>
+        <fechaFactura>03/24/2017</fechaFactura>
+        <CIFCliente>W9830956J</CIFCliente>
+        <nombreCliente>Sirohihu</nombreCliente>
+        <FechaCobro>03/31/2017</FechaCobro>
+        <EstadoFactura>Atrasado</EstadoFactura>
+        <TelefonoCliente>622027112</TelefonoCliente>
+        <addressCliente>Calle Isla del Aire 28</addressCliente>
+        <CPCliente>46874</CPCliente>
+        <PaisCliente>Armenia</PaisCliente>
+        <CiudadCliente>Ereván</CiudadCliente>
+        <correoCliente>SirohihuAr@gmail.com</correoCliente>
+        <Producto>Hardware</Producto>
+        <ImporteBruto>4579</ImporteBruto>
+        <ImporteIVA>961.59</ImporteIVA>
+        <Total>5540.59</Total>
+        <Moneda>CNH</Moneda>
+    </Factura>
+    <Factura>
+        <nFactura>202227</nFactura>
+        <nombreMiEmpresa>Puzzles</nombreMiEmpresa>
+        <fechaFactura>07/19/2007</fechaFactura>
+        <CIFCliente>J02246163</CIFCliente>
+        <nombreCliente>Widuniwi</nombreCliente>
+        <FechaCobro>07/30/2007</FechaCobro>
+        <EstadoFactura>Pendiente</EstadoFactura>
+        <TelefonoCliente>635432600</TelefonoCliente>
+        <addressCliente>Calle de Gomera 11</addressCliente>
+        <CPCliente>66122</CPCliente>
+        <PaisCliente>Suiza</PaisCliente>
+        <CiudadCliente>Berna</CiudadCliente>
+        <correoCliente>WiduniwiSu@gmail.com</correoCliente>
+        <Producto>Servicio al cliente</Producto>
+        <ImporteBruto>3317</ImporteBruto>
+        <ImporteIVA>696.57</ImporteIVA>
+        <Total>4013.57</Total>
+        <Moneda>BTC</Moneda>
+    </Factura>
+    <Factura>
+        <nFactura>202228</nFactura>
+        <nombreMiEmpresa>Puzzles</nombreMiEmpresa>
+        <fechaFactura>10/23/2005</fechaFactura>
+        <CIFCliente>J00728667</CIFCliente>
+        <nombreCliente>Soporaso</nombreCliente>
+        <FechaCobro>11/02/2005</FechaCobro>
+        <EstadoFactura>Pendiente</EstadoFactura>
+        <TelefonoCliente>623554688</TelefonoCliente>
+        <addressCliente>Plaza de la Fuente 45</addressCliente>
+        <CPCliente>45166</CPCliente>
+        <PaisCliente>Francia</PaisCliente>
+        <CiudadCliente>París</CiudadCliente>
+        <correoCliente>SoporsoFr@gmail.com</correoCliente>
+        <Producto>Software</Producto>
+        <ImporteBruto>1191</ImporteBruto>
+        <ImporteIVA>250.11</ImporteIVA>
+        <Total>1441.11</Total>
+        <Moneda>EUR</Moneda>
+    </Factura>
+    <Factura>
+        <nFactura>202229</nFactura>
+        <nombreMiEmpresa>Puzzles</nombreMiEmpresa>
+        <fechaFactura>12/26/2011</fechaFactura>
+        <CIFCliente>Q4424485C</CIFCliente>
+        <nombreCliente>MERCADONA SA</nombreCliente>
+        <FechaCobro>12/29/2011</FechaCobro>
+        <EstadoFactura>Pendiente</EstadoFactura>
+        <TelefonoCliente>662641278</TelefonoCliente>
+        <addressCliente>Calle Dalia 11</addressCliente>
+        <CPCliente>20560</CPCliente>
+        <PaisCliente>Bosnia y Herzegovina</PaisCliente>
+        <CiudadCliente>Sarajevo</CiudadCliente>
+        <correoCliente>MERCA SABo@gmail.com</correoCliente>
+        <Producto>Hardware</Producto>
+        <ImporteBruto>4580</ImporteBruto>
+        <ImporteIVA>961.8</ImporteIVA>
+        <Total>5541.8</Total>
+        <Moneda>USD</Moneda>
+    </Factura>
+    <Factura>
+        <nFactura>202230</nFactura>
+        <nombreMiEmpresa>Puzzles</nombreMiEmpresa>
+        <fechaFactura>06/06/2015</fechaFactura>
+        <CIFCliente>N4004990J</CIFCliente>
+        <nombreCliente>REPSOL PETROLEO SA</nombreCliente>
+        <FechaCobro>06/10/2015</FechaCobro>
+        <EstadoFactura>Pagado</EstadoFactura>
+        <TelefonoCliente>672936819</TelefonoCliente>
+        <addressCliente>Calle de la Encina 36</addressCliente>
+        <CPCliente>17377</CPCliente>
+        <PaisCliente>Estonia</PaisCliente>
+        <CiudadCliente>Tallín</CiudadCliente>
+        <correoCliente>REPSO SAEs@gmail.com</correoCliente>
+        <Producto>Servicio al cliente</Producto>
+        <ImporteBruto>1061</ImporteBruto>
+        <ImporteIVA>222.81</ImporteIVA>
+        <Total>1283.81</Total>
+        <Moneda>GBP</Moneda>
+    </Factura>
+    <Factura>
+        <nFactura>202231</nFactura>
+        <nombreMiEmpresa>Puzzles</nombreMiEmpresa>
+        <fechaFactura>01/01/2021</fechaFactura>
+        <CIFCliente>H12943908</CIFCliente>
+        <nombreCliente>COMPAÑIA ESPAÑOLA DE PETROLEOS SAU</nombreCliente>
+        <FechaCobro>01/04/2021</FechaCobro>
+        <EstadoFactura>Pendiente</EstadoFactura>
+        <TelefonoCliente>696684254</TelefonoCliente>
+        <addressCliente>Calle de Guadalajara 36</addressCliente>
+        <CPCliente>12013</CPCliente>
+        <PaisCliente>San Marino</PaisCliente>
+        <CiudadCliente>San Marino</CiudadCliente>
+        <correoCliente>COMPASAUSa@gmail.com</correoCliente>
+        <Producto>Software</Producto>
+        <ImporteBruto>3935</ImporteBruto>
+        <ImporteIVA>826.35</ImporteIVA>
+        <Total>4761.35</Total>
+        <Moneda>JPY</Moneda>
+    </Factura>
+    <Factura>
+        <nFactura>202232</nFactura>
+        <nombreMiEmpresa>Puzzles</nombreMiEmpresa>
+        <fechaFactura>12/31/2021</fechaFactura>
+        <CIFCliente>G12641007</CIFCliente>
+        <nombreCliente>TELEFONICA, SA</nombreCliente>
+        <FechaCobro>01/11/2022</FechaCobro>
+        <EstadoFactura>Pendiente</EstadoFactura>
+        <TelefonoCliente>601039876</TelefonoCliente>
+        <addressCliente>Calle los Carreteros 48</addressCliente>
+        <CPCliente>45198</CPCliente>
+        <PaisCliente>Suiza</PaisCliente>
+        <CiudadCliente>Berna</CiudadCliente>
+        <correoCliente>TELEF SASu@gmail.com</correoCliente>
+        <Producto>Hardware</Producto>
+        <ImporteBruto>4394</ImporteBruto>
+        <ImporteIVA>922.74</ImporteIVA>
+        <Total>5316.74</Total>
+        <Moneda>AUD</Moneda>
+    </Factura>
+    <Factura>
+        <nFactura>202233</nFactura>
+        <nombreMiEmpresa>Puzzles</nombreMiEmpresa>
+        <fechaFactura>05/08/2022</fechaFactura>
+        <CIFCliente>G22831713</CIFCliente>
+        <nombreCliente>ENDESA ENERGIA SAU</nombreCliente>
+        <FechaCobro>05/13/2022</FechaCobro>
+        <EstadoFactura>Pendiente</EstadoFactura>
+        <TelefonoCliente>689874807</TelefonoCliente>
+        <addressCliente>Calle Clavel 42</addressCliente>
+        <CPCliente>29128</CPCliente>
+        <PaisCliente>Bielorrusia</PaisCliente>
+        <CiudadCliente>Minsk</CiudadCliente>
+        <correoCliente>ENDESSAUBi@gmail.com</correoCliente>
+        <Producto>Servicio al cliente</Producto>
+        <ImporteBruto>3233</ImporteBruto>
+        <ImporteIVA>678.93</ImporteIVA>
+        <Total>3911.93</Total>
+        <Moneda>CAD</Moneda>
+    </Factura>
+    <Factura>
+        <nFactura>202234</nFactura>
+        <nombreMiEmpresa>Puzzles</nombreMiEmpresa>
+        <fechaFactura>02/24/2020</fechaFactura>
+        <CIFCliente>P0530595H</CIFCliente>
+        <nombreCliente>REPSOL COMERCIAL DE PRODUCTOS PETROLIFEROS SA</nombreCliente>
+        <FechaCobro>03/04/2020</FechaCobro>
+        <EstadoFactura>Pagado</EstadoFactura>
+        <TelefonoCliente>658962569</TelefonoCliente>
+        <addressCliente>Camino Fuente de los Caños 29</addressCliente>
+        <CPCliente>65301</CPCliente>
+        <PaisCliente>Reino Unido</PaisCliente>
+        <CiudadCliente>Londres</CiudadCliente>
+        <correoCliente>REPSO SARe@gmail.com</correoCliente>
+        <Producto>Software</Producto>
+        <ImporteBruto>3523</ImporteBruto>
+        <ImporteIVA>739.83</ImporteIVA>
+        <Total>4262.83</Total>
+        <Moneda>CHF</Moneda>
+    </Factura>
+    <Factura>
+        <nFactura>202235</nFactura>
+        <nombreMiEmpresa>Puzzles</nombreMiEmpresa>
+        <fechaFactura>03/01/2017</fechaFactura>
+        <CIFCliente>E52535416</CIFCliente>
+        <nombreCliente>INDUSTRIA DE DISEÑO TEXTIL SA</nombreCliente>
+        <FechaCobro>03/13/2017</FechaCobro>
+        <EstadoFactura>Pagado</EstadoFactura>
+        <TelefonoCliente>639326345</TelefonoCliente>
+        <addressCliente>Calle de Huesca 7</addressCliente>
+        <CPCliente>28981</CPCliente>
+        <PaisCliente>Ucrania</PaisCliente>
+        <CiudadCliente>Kiev</CiudadCliente>
+        <correoCliente>INDUS SAUc@gmail.com</correoCliente>
+        <Producto>Hardware</Producto>
+        <ImporteBruto>3011</ImporteBruto>
+        <ImporteIVA>632.31</ImporteIVA>
+        <Total>3643.31</Total>
+        <Moneda>CNH</Moneda>
+    </Factura>
+    <Factura>
+        <nFactura>202236</nFactura>
+        <nombreMiEmpresa>Puzzles</nombreMiEmpresa>
+        <fechaFactura>02/14/2015</fechaFactura>
+        <CIFCliente>J23006844</CIFCliente>
+        <nombreCliente>EL CORTE INGLES SA</nombreCliente>
+        <FechaCobro>02/18/2015</FechaCobro>
+        <EstadoFactura>Atrasado</EstadoFactura>
+        <TelefonoCliente>677668295</TelefonoCliente>
+        <addressCliente>Calle Plomo 34</addressCliente>
+        <CPCliente>63917</CPCliente>
+        <PaisCliente>Rusia</PaisCliente>
+        <CiudadCliente>Moscú</CiudadCliente>
+        <correoCliente>EL CO SARu@gmail.com</correoCliente>
+        <Producto>Servicio al cliente</Producto>
+        <ImporteBruto>3618</ImporteBruto>
+        <ImporteIVA>759.78</ImporteIVA>
+        <Total>4377.78</Total>
+        <Moneda>BTC</Moneda>
+    </Factura>
+    <Factura>
+        <nFactura>202237</nFactura>
+        <nombreMiEmpresa>Puzzles</nombreMiEmpresa>
+        <fechaFactura>04/14/2001</fechaFactura>
+        <CIFCliente>D15718927</CIFCliente>
+        <nombreCliente>CEPSA TRADING SAU</nombreCliente>
+        <FechaCobro>04/25/2001</FechaCobro>
+        <EstadoFactura>Pendiente</EstadoFactura>
+        <TelefonoCliente>624615582</TelefonoCliente>
+        <addressCliente>Calle Navacerrada 31</addressCliente>
+        <CPCliente>41239</CPCliente>
+        <PaisCliente>Polonia</PaisCliente>
+        <CiudadCliente>Varsovia</CiudadCliente>
+        <correoCliente>CEPSASAUPo@gmail.com</correoCliente>
+        <Producto>Software</Producto>
+        <ImporteBruto>3238</ImporteBruto>
+        <ImporteIVA>679.98</ImporteIVA>
+        <Total>3917.98</Total>
+        <Moneda>EUR</Moneda>
+    </Factura>
+    <Factura>
+        <nFactura>202238</nFactura>
+        <nombreMiEmpresa>Puzzles</nombreMiEmpresa>
+        <fechaFactura>07/07/2011</fechaFactura>
+        <CIFCliente>P1350817A</CIFCliente>
+        <nombreCliente>SEAT SA</nombreCliente>
+        <FechaCobro>07/16/2011</FechaCobro>
+        <EstadoFactura>Atrasado</EstadoFactura>
+        <TelefonoCliente>608908259</TelefonoCliente>
+        <addressCliente>Calle de los Nardos 16</addressCliente>
+        <CPCliente>85402</CPCliente>
+        <PaisCliente>Reino Unido</PaisCliente>
+        <CiudadCliente>Londres</CiudadCliente>
+        <correoCliente>SEAT  SARe@gmail.com</correoCliente>
+        <Producto>Hardware</Producto>
+        <ImporteBruto>3015</ImporteBruto>
+        <ImporteIVA>633.15</ImporteIVA>
+        <Total>3648.15</Total>
+        <Moneda>USD</Moneda>
+    </Factura>
+    <Factura>
+        <nFactura>202239</nFactura>
+        <nombreMiEmpresa>Puzzles</nombreMiEmpresa>
+        <fechaFactura>11/02/2013</fechaFactura>
+        <CIFCliente>A18510115</CIFCliente>
+        <nombreCliente>CENTROS COMERCIALES CARREFOUR SA</nombreCliente>
+        <FechaCobro>11/13/2013</FechaCobro>
+        <EstadoFactura>Pendiente</EstadoFactura>
+        <TelefonoCliente>610512872</TelefonoCliente>
+        <addressCliente>Calle Getafe 2</addressCliente>
+        <CPCliente>64367</CPCliente>
+        <PaisCliente>Liechtenstein</PaisCliente>
+        <CiudadCliente>Vaduz</CiudadCliente>
+        <correoCliente>CENTR SALi@gmail.com</correoCliente>
+        <Producto>Servicio al cliente</Producto>
+        <ImporteBruto>1222</ImporteBruto>
+        <ImporteIVA>256.62</ImporteIVA>
+        <Total>1478.62</Total>
+        <Moneda>GBP</Moneda>
+    </Factura>
+    <Factura>
+        <nFactura>202240</nFactura>
+        <nombreMiEmpresa>Puzzles</nombreMiEmpresa>
+        <fechaFactura>12/26/2012</fechaFactura>
+        <CIFCliente>C38778015</CIFCliente>
+        <nombreCliente>TELEFONICA DE ESPAÑA SAU</nombreCliente>
+        <FechaCobro>01/08/2013</FechaCobro>
+        <EstadoFactura>Pendiente</EstadoFactura>
+        <TelefonoCliente>611833701</TelefonoCliente>
+        <addressCliente>Calle las Huertas 13</addressCliente>
+        <CPCliente>16361</CPCliente>
+        <PaisCliente>Andorra</PaisCliente>
+        <CiudadCliente>Andorra La Vieja</CiudadCliente>
+        <correoCliente>TELEFSAUAn@gmail.com</correoCliente>
+        <Producto>Software</Producto>
+        <ImporteBruto>4934</ImporteBruto>
+        <ImporteIVA>1036.14</ImporteIVA>
+        <Total>5970.14</Total>
+        <Moneda>JPY</Moneda>
+    </Factura>
+    <Factura>
+        <nFactura>202241</nFactura>
+        <nombreMiEmpresa>Puzzles</nombreMiEmpresa>
+        <fechaFactura>11/16/2009</fechaFactura>
+        <CIFCliente>J64211733</CIFCliente>
+        <nombreCliente>SOCIEDAD ESTATAL LOTERIAS Y APUESTAS DEL ESTADO SME SA</nombreCliente>
+        <FechaCobro>11/18/2009</FechaCobro>
+        <EstadoFactura>Pagado</EstadoFactura>
+        <TelefonoCliente>614838468</TelefonoCliente>
+        <addressCliente>Calle de Córdoba 42</addressCliente>
+        <CPCliente>13489</CPCliente>
+        <PaisCliente>Malta</PaisCliente>
+        <CiudadCliente>La Valeta</CiudadCliente>
+        <correoCliente>SOCIE SAMa@gmail.com</correoCliente>
+        <Producto>Hardware</Producto>
+        <ImporteBruto>524</ImporteBruto>
+        <ImporteIVA>110.04</ImporteIVA>
+        <Total>634.04</Total>
+        <Moneda>AUD</Moneda>
+    </Factura>
+    <Factura>
+        <nFactura>202242</nFactura>
+        <nombreMiEmpresa>Puzzles</nombreMiEmpresa>
+        <fechaFactura>07/24/2016</fechaFactura>
+        <CIFCliente>U23010325</CIFCliente>
+        <nombreCliente>IBERDROLA CLIENTES SOCIEDAD ANONIMA.</nombreCliente>
+        <FechaCobro>08/04/2016</FechaCobro>
+        <EstadoFactura>Pendiente</EstadoFactura>
+        <TelefonoCliente>646839974</TelefonoCliente>
+        <addressCliente>Paraje Prado de la Casa 47</addressCliente>
+        <CPCliente>14827</CPCliente>
+        <PaisCliente>Irlanda</PaisCliente>
+        <CiudadCliente>Dublín</CiudadCliente>
+        <correoCliente>IBERDMA.Ir@gmail.com</correoCliente>
+        <Producto>Servicio al cliente</Producto>
+        <ImporteBruto>3365</ImporteBruto>
+        <ImporteIVA>706.65</ImporteIVA>
+        <Total>4071.65</Total>
+        <Moneda>CAD</Moneda>
+    </Factura>
+    <Factura>
+        <nFactura>202243</nFactura>
+        <nombreMiEmpresa>Puzzles</nombreMiEmpresa>
+        <fechaFactura>05/16/2019</fechaFactura>
+        <CIFCliente>Q5267487F</CIFCliente>
+        <nombreCliente>FORD ESPAÑA SL</nombreCliente>
+        <FechaCobro>05/20/2019</FechaCobro>
+        <EstadoFactura>Pendiente</EstadoFactura>
+        <TelefonoCliente>649874329</TelefonoCliente>
+        <addressCliente>Calle Navalcarnero 3</addressCliente>
+        <CPCliente>39812</CPCliente>
+        <PaisCliente>Georgia</PaisCliente>
+        <CiudadCliente>Tiflis</CiudadCliente>
+        <correoCliente>FORD  SLGe@gmail.com</correoCliente>
+        <Producto>Software</Producto>
+        <ImporteBruto>4453</ImporteBruto>
+        <ImporteIVA>935.13</ImporteIVA>
+        <Total>5388.13</Total>
+        <Moneda>CHF</Moneda>
+    </Factura>
+    <Factura>
+        <nFactura>202244</nFactura>
+        <nombreMiEmpresa>Puzzles</nombreMiEmpresa>
+        <fechaFactura>11/10/2011</fechaFactura>
+        <CIFCliente>D63693824</CIFCliente>
+        <nombreCliente>PEUGEOT CITROEN AUTOMOVILES ESPAÑA, SA</nombreCliente>
+        <FechaCobro>11/17/2011</FechaCobro>
+        <EstadoFactura>Atrasado</EstadoFactura>
+        <TelefonoCliente>677069859</TelefonoCliente>
+        <addressCliente>Carretera M-410 11</addressCliente>
+        <CPCliente>71343</CPCliente>
+        <PaisCliente>Andorra</PaisCliente>
+        <CiudadCliente>Andorra La Vieja</CiudadCliente>
+        <correoCliente>PEUGE SAAn@gmail.com</correoCliente>
+        <Producto>Hardware</Producto>
+        <ImporteBruto>4712</ImporteBruto>
+        <ImporteIVA>989.52</ImporteIVA>
+        <Total>5701.52</Total>
+        <Moneda>CNH</Moneda>
+    </Factura>
+    <Factura>
+        <nFactura>202245</nFactura>
+        <nombreMiEmpresa>Puzzles</nombreMiEmpresa>
+        <fechaFactura>06/17/2003</fechaFactura>
+        <CIFCliente>F21033691</CIFCliente>
+        <nombreCliente>RENAULT ESPAÑA SA</nombreCliente>
+        <FechaCobro>06/21/2003</FechaCobro>
+        <EstadoFactura>Pendiente</EstadoFactura>
+        <TelefonoCliente>657278617</TelefonoCliente>
+        <addressCliente>Calle Pensamiento 2</addressCliente>
+        <CPCliente>38483</CPCliente>
+        <PaisCliente>Italia</PaisCliente>
+        <CiudadCliente>Roma</CiudadCliente>
+        <correoCliente>RENAU SAIt@gmail.com</correoCliente>
+        <Producto>Servicio al cliente</Producto>
+        <ImporteBruto>2109</ImporteBruto>
+        <ImporteIVA>442.89</ImporteIVA>
+        <Total>2551.89</Total>
+        <Moneda>BTC</Moneda>
+    </Factura>
+    <Factura>
+        <nFactura>202246</nFactura>
+        <nombreMiEmpresa>Puzzles</nombreMiEmpresa>
+        <fechaFactura>05/29/2021</fechaFactura>
+        <CIFCliente>N1215534G</CIFCliente>
+        <nombreCliente>IBERDROLA ENERGIA ESPAÑA SOCIEDAD ANONIMA.</nombreCliente>
+        <FechaCobro>06/10/2021</FechaCobro>
+        <EstadoFactura>Atrasado</EstadoFactura>
+        <TelefonoCliente>648158619</TelefonoCliente>
+        <addressCliente>Calle de los Derechos Humanos 39</addressCliente>
+        <CPCliente>45813</CPCliente>
+        <PaisCliente>Suiza</PaisCliente>
+        <CiudadCliente>Berna</CiudadCliente>
+        <correoCliente>IBERDMA.Su@gmail.com</correoCliente>
+        <Producto>Software</Producto>
+        <ImporteBruto>2465</ImporteBruto>
+        <ImporteIVA>517.65</ImporteIVA>
+        <Total>2982.65</Total>
+        <Moneda>EUR</Moneda>
+    </Factura>
+    <Factura>
+        <nFactura>202247</nFactura>
+        <nombreMiEmpresa>Puzzles</nombreMiEmpresa>
+        <fechaFactura>08/03/2004</fechaFactura>
+        <CIFCliente>Q1928760F</CIFCliente>
+        <nombreCliente>REPSOL TRADING SA.</nombreCliente>
+        <FechaCobro>08/07/2004</FechaCobro>
+        <EstadoFactura>Pagado</EstadoFactura>
+        <TelefonoCliente>648515071</TelefonoCliente>
+        <addressCliente>Travesia de la Iglesia 18</addressCliente>
+        <CPCliente>71925</CPCliente>
+        <PaisCliente>Países Bajos</PaisCliente>
+        <CiudadCliente>Ámsterdam</CiudadCliente>
+        <correoCliente>REPSOSA.Pa@gmail.com</correoCliente>
+        <Producto>Hardware</Producto>
+        <ImporteBruto>1530</ImporteBruto>
+        <ImporteIVA>321.3</ImporteIVA>
+        <Total>1851.3</Total>
+        <Moneda>USD</Moneda>
+    </Factura>
+    <Factura>
+        <nFactura>202248</nFactura>
+        <nombreMiEmpresa>Puzzles</nombreMiEmpresa>
+        <fechaFactura>06/29/2010</fechaFactura>
+        <CIFCliente>C25589714</CIFCliente>
+        <nombreCliente>MERCEDES-BENZ ESPAÑA SAU</nombreCliente>
+        <FechaCobro>07/07/2010</FechaCobro>
+        <EstadoFactura>Sobrepagado</EstadoFactura>
+        <TelefonoCliente>629363306</TelefonoCliente>
+        <addressCliente>Calle de Huesca 2</addressCliente>
+        <CPCliente>39247</CPCliente>
+        <PaisCliente>Luxemburgo</PaisCliente>
+        <CiudadCliente>Luxemburgo</CiudadCliente>
+        <correoCliente>MERCESAULu@gmail.com</correoCliente>
+        <Producto>Servicio al cliente</Producto>
+        <ImporteBruto>1295</ImporteBruto>
+        <ImporteIVA>271.95</ImporteIVA>
+        <Total>1566.95</Total>
+        <Moneda>GBP</Moneda>
+    </Factura>
+    <Factura>
+        <nFactura>202249</nFactura>
+        <nombreMiEmpresa>Puzzles</nombreMiEmpresa>
+        <fechaFactura>06/17/2011</fechaFactura>
+        <CIFCliente>V51884328</CIFCliente>
+        <nombreCliente>LIDL SUPERMERCADOS SAU</nombreCliente>
+        <FechaCobro>06/30/2011</FechaCobro>
+        <EstadoFactura>Pagado</EstadoFactura>
+        <TelefonoCliente>600895034</TelefonoCliente>
+        <addressCliente>Calle Cubas 8</addressCliente>
+        <CPCliente>51964</CPCliente>
+        <PaisCliente>Eslovenia</PaisCliente>
+        <CiudadCliente>Liubliana</CiudadCliente>
+        <correoCliente>LIDL SAUEs@gmail.com</correoCliente>
+        <Producto>Software</Producto>
+        <ImporteBruto>1489</ImporteBruto>
+        <ImporteIVA>312.69</ImporteIVA>
+        <Total>1801.69</Total>
+        <Moneda>JPY</Moneda>
+    </Factura>
+    <Factura>
+        <nFactura>202250</nFactura>
+        <nombreMiEmpresa>Puzzles</nombreMiEmpresa>
+        <fechaFactura>04/05/2004</fechaFactura>
+        <CIFCliente>H06685739</CIFCliente>
+        <nombreCliente>OPEL ESPAÑA SLU</nombreCliente>
+        <FechaCobro>04/16/2004</FechaCobro>
+        <EstadoFactura>Atrasado</EstadoFactura>
+        <TelefonoCliente>654745248</TelefonoCliente>
+        <addressCliente>Calle Manacor 42</addressCliente>
+        <CPCliente>52529</CPCliente>
+        <PaisCliente>Andorra</PaisCliente>
+        <CiudadCliente>Andorra La Vieja</CiudadCliente>
+        <correoCliente>OPEL SLUAn@gmail.com</correoCliente>
+        <Producto>Hardware</Producto>
+        <ImporteBruto>2527</ImporteBruto>
+        <ImporteIVA>530.67</ImporteIVA>
+        <Total>3057.67</Total>
+        <Moneda>AUD</Moneda>
+    </Factura>
+</Facturas>

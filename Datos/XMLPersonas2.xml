@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Personas>
+	<Persona>
+		<Id>79999999A</Id>
+		<Nombre>Rosana </Nombre>
+		<Provincia>Zaragoza</Provincia>
+	</Persona>
+	<Persona>
+		<Id>79999998A</Id>
+		<Nombre>Fernando</Nombre>
+		<Provincia>Huesca</Provincia>
+	</Persona>
+	<Persona>
+		<Id>79999997A</Id>
+		<Nombre>Belén</Nombre>
+		<Provincia>Teruel</Provincia>
+	</Persona>
+</Personas>

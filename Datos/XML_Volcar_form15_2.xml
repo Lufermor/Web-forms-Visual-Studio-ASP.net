@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Datos>
+	<Empleado ID="8">
+		<Nombre>Maria</Nombre>
+		<Apellido>Lopez</Apellido>
+		<Puesto>Coordinadora</Puesto>
+		<Fecha_alta>2009-08-18</Fecha_alta>
+		<Salario>2305</Salario>
+	</Empleado>
+	<Empleado ID="9">
+		<Nombre>Douglas</Nombre>
+		<Apellido>Villegas</Apellido>
+		<Puesto>Ingeniero</Puesto>
+		<Fecha_alta>2015-12-22</Fecha_alta>
+		<Salario>3031</Salario>
+	</Empleado>
+	<Empleado ID="10">
+		<Nombre>Juan</Nombre>
+		<Apellido>Gomez</Apellido>
+		<Puesto>Profesor</Puesto>
+		<Fecha_alta>2013-01-28</Fecha_alta>
+		<Salario>1903</Salario>
+	</Empleado>
+	<Empleado ID="11">
+		<Nombre>Silvia</Nombre>
+		<Apellido>Sanchez</Apellido>
+		<Puesto>Cocinera</Puesto>
+		<Fecha_alta>2021-06-04</Fecha_alta>
+		<Salario>1719</Salario>
+	</Empleado>
+	<Fichaje ID="29">
+		<empleado_id>24</empleado_id>
+		<Fecha>2022-12-01</Fecha>
+		<Hora_entrada>10:14</Hora_entrada>
+		<Hora_salida>14:28</Hora_salida>
+	</Fichaje>
+	<Fichaje ID="30">
+		<empleado_id>25</empleado_id>
+		<Fecha>2022-12-01</Fecha>
+		<Hora_entrada>15:32</Hora_entrada>
+		<Hora_salida>21:21</Hora_salida>
+	</Fichaje>
+	<Fichaje ID="31">
+		<empleado_id>26</empleado_id>
+		<Fecha>2022-12-01</Fecha>
+		<Hora_entrada>09:21</Hora_entrada>
+		<Hora_salida>14:15</Hora_salida>
+	</Fichaje>
+</Datos>

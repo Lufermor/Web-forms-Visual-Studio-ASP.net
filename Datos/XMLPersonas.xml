@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Personas>
+	<Persona Id="11111111A" Nombre="Maria Lopez" Provincia="Huesca" />
+	<Persona Id="22222222B" Nombre="Juan Gomez" Provincia="Teruel" />
+	<Persona Id="33333333c" Nombre="Silvia Sanchez" Provincia="Zaragoza" />
+</Personas>

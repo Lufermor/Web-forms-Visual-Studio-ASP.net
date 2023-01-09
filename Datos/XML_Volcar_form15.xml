@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Datos>
+	<Persona ID="1">
+		<DNI>11111115A</DNI>
+		<Nombre>Maria Lopez</Nombre>
+		<Provincia>22</Provincia>
+	</Persona>
+	<Persona ID="2">
+		<DNI>11111116A</DNI>
+		<Nombre>Douglas Villegas</Nombre>
+		<Provincia>22</Provincia>
+	</Persona>
+	<Persona ID="3">
+		<DNI>11111117A</DNI>
+		<Nombre>Juan Gomez</Nombre>
+		<Provincia>44</Provincia>
+	</Persona>
+	<Persona ID="4">
+		<DNI>11111118A</DNI>
+		<Nombre>Silvia Sanchez</Nombre>
+		<Provincia>50</Provincia>
+	</Persona>
+	<Provincia ID="44">
+		<nomProvincia>Teruel</nomProvincia>
+	</Provincia>
+	<Provincia ID="50">
+		<nomProvincia>Zaragoza</nomProvincia>
+	</Provincia>
+	<Provincia ID="22">
+		<nomProvincia>Huesca</nomProvincia>
+	</Provincia>
+</Datos>
